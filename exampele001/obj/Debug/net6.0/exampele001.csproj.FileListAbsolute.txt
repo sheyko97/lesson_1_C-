@@ -1,0 +1,15 @@
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\bin\Debug\net6.0\exampele001.exe
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\bin\Debug\net6.0\exampele001.deps.json
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\bin\Debug\net6.0\exampele001.runtimeconfig.json
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\bin\Debug\net6.0\exampele001.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\bin\Debug\net6.0\exampele001.pdb
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.csproj.AssemblyReference.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.AssemblyInfoInputs.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.AssemblyInfo.cs
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.csproj.CoreCompileInputs.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\refint\exampele001.dll
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.pdb
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\exampele001.genruntimeconfig.cache
+C:\Users\schei\Desktop\GeekBrains\4) Знакомство с языками программирования\Лекции\lesson_1\exampele001\obj\Debug\net6.0\ref\exampele001.dll
